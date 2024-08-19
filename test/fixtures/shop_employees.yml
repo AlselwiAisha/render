@@ -1,0 +1,24 @@
+user1_shop1_owner:
+    shop: one
+    user: one
+    role: owner
+
+user2_shop1_employee:
+    shop: one
+    user: two
+    role: employee
+
+user3_shop1_owner:
+    shop: one
+    user: three
+    role: owner
+
+user2_shop2_owner:
+    shop: two
+    user: two
+    role: owner
+
+user2_shop3_owner:
+    shop: three
+    user: one
+    role: owner

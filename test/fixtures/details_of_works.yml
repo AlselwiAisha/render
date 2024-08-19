@@ -1,0 +1,15 @@
+# # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shop_employee: user2_shop1_employee
+  product_work: one
+  count: 1
+  percent_done: 1
+  start_date: 2021-09-01
+
+two:
+  shop_employee: user2_shop1_employee
+  product_work: two
+  count: 1
+  percent_done: 1
+  start_date: 2021-09-01

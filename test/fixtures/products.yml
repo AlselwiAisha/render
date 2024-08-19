@@ -1,0 +1,11 @@
+one:
+  name: MyProduct
+  prototype: one
+  price: 1000
+  shop: one
+
+two:
+  name: product2
+  prototype: two
+  price: 1000
+  shop: one

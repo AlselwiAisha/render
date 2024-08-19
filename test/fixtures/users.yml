@@ -1,0 +1,26 @@
+# # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Aisha
+  email: aisha@gmail.com
+  jti: "{\"p\":\"weZFJvlJsbKujCGS4CRUT5XJmNuFI8CsjwIAOexdqogdaUzm\",\"h\":{\"iv\":\"r03NXWqCdsTTpPGE\",\"at\":\"0Fe3o/B0851F3BKOS9EROA==\",\"e\":\"VVMtQVNDSUk=\"}}"
+  encrypted_password: '$2a$12$63XhJxjuufQRKNOtdxLa6OgrQm08khWvnlqLyi4syt4Pb6tQ0RfF2'
+
+two:
+  name: Moathal
+  email: moathal@gmail.com
+  jti: "{\"p\":\"w6UkaZuTgq6SK3ktl2MJ2Pv9sfheOn3nP+zJFqbKY6LrQP1B\",\"h\":{\"iv\":\"DALaYuVYhsz41Rf+\",\"at\":\"GphgCdrFdo93i9rbbraNSg==\",\"e\":\"VVMtQVNDSUk=\"}}"
+  encrypted_password: '$2a$12$63XhJxjuufQRKNOtdxLa6OgrQm08khWvnlqLyi4syt4Pb6tQ0RfF2'
+
+three:
+  name: Moa
+  email: moat@gmail.com
+  jti: "{\"p\":\"jtZEt3FutEkRwOixFsLgsyFV2ESd3YmOkHHkrqvgDGO6bdju\",\"h\":{\"iv\":\"GjiOMRwaQnj3esvi\",\"at\":\"gg2IWay485UP4c3XNpqp2Q==\",\"e\":\"VVMtQVNDSUk=\"}}"
+  encrypted_password: '$2a$12$63XhJxjuufQRKNOtdxLa6OgrQm08khWvnlqLyi4syt4Pb6tQ0RfF2'
+four:
+  name: Mamo
+  email: mamo@gmail.com
+  jti: "{\"p\":\"j2ZEt3FutEkRwOixFsLgsyFV2ESd3YmOkHHkrqvgDGO6bdju\",\"h\":{\"iv\":\"GjiOMRwaQnj3esvi\",\"at\":\"gg2IWay485UP4c3XNpqp2Q==\",\"e\":\"VVMtQVNDSUk=\"}}"
+  encrypted_password: '$2a$12$63XhJxjuufQRKNOtdxLa6OgrQm08khWvnlqLyi4syt4Pb6tQ0RfF2'
+
+ 

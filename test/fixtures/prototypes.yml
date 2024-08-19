@@ -1,0 +1,7 @@
+one:
+  name: MyPrototype
+  group: one
+
+two:
+  name: prototype2
+  group: one
